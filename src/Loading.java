@@ -26,5 +26,6 @@ public class Loading {
         }
         while (le2 <= massa.length);
         System.out.println(sum3);
+        System.out.println("Hi");
     }
 }
